@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1783169587 source:d:\0.6\udp server project\serverprogect\main.cpp
+	"server.hpp"
+	<winsock2.h>
+	<windows.h>
+	<mswsock.h>
+	<ws2tcpip.h>
+	<string.h>
+	<unordered_map>
+	<unordered_set>
+
+1783171639 source:d:\0.6\udp server project\serverprogect\httprequest.cpp
+	"httpRequest.hpp"
+	"hashmaps.hpp"
+	<string>
+	<algorithm>
+	<cctype>
+
+1783165925 d:\0.6\udp server project\serverprogect\httprequest.hpp
+	<unordered_map>
+	<string>
+
+1783171529 source:d:\0.6\udp server project\serverprogect\methods.cpp
+	"methods.hpp"
+	"httpRequest.hpp"
+	"hashmaps.hpp"
+	<cstring>
+	<string>
+	<string.h>
+	<winsock2.h>
+	<mswsock.h>
+	<iostream>
+
+1783087059 d:\0.6\udp server project\serverprogect\methods.hpp
+	"httpRequest.hpp"
+	<winsock2.h>
+
+1783170608 source:d:\0.6\udp server project\serverprogect\server.cpp
+	"server.hpp"
+	"hashmaps.hpp"
+	"httpRequest.hpp"
+	<iostream>
+
+1783097491 d:\0.6\udp server project\serverprogect\server.hpp
+	<string>
+	<winsock2.h>
+
+1783168508 d:\0.6\udp server project\serverprogect\hashmaps.hpp
+	<unordered_map>
+	"methods.hpp"
+	<string>
+
